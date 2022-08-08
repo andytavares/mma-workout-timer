@@ -1,0 +1,7 @@
+{
+  "name": "mma-workout-timer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
